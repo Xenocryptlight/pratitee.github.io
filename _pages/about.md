@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Pratitee Ghosh's Academic Portfolio"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
